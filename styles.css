@@ -14,7 +14,7 @@
     align-items: center;
 }
 .container{
-    border: 4px solid lightgrey;
+    border: 4px solid rgb(17, 12, 12);
     display: flex;
     justify-content: space-between;
     padding: 24px;
